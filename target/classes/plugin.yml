@@ -1,0 +1,5 @@
+name: SentinelNoCount
+main: net.velinquish.sentinelnocount.SentinelNoCount
+version: 1.0.0-BETA
+author: Velinquish
+depend: [Citizens]
